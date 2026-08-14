@@ -1,0 +1,7 @@
+{
+  "name": "AeroRAG",
+  "description": "High-fidelity aerospace & technical document retrieval-augmented generation engine with vector inspection, semantic search, and grounded citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
